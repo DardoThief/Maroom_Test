@@ -1,2 +1,7 @@
-# Maroom_Test
-Тестовое задание для компании Maroom
+In the project directory, you can run:
+
+### `yarn`
+
+And then
+
+### `yarn start`

@@ -1,0 +1,37 @@
+.App {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+form {
+  width: 400px;
+  margin: 0 auto;
+}
+
+p {
+  color: #bf167b;
+}
+
+button[type="submit"] {
+  background: #8e54dc;
+  color: white;
+  width: 400px;
+  margin-top: 40px;
+  padding: 20px;
+  font-size: 16px;
+}
+
+button[type="submit"]:hover {
+  background: #bf167b;
+}
+
+button[type="submit"]:active {
+  transition: 0.3s all;
+  transform: translateY(3px);
+  border: 1px solid transparent;
+  opacity: 0.6;
+}
